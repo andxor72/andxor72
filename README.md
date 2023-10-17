@@ -3,9 +3,8 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandxor72)](https://hits.seeyoufarm.com) 
 	
   </div>
-**andxor72/andxor72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 최재현입니다. Hardware 엔지니어이고 여러 예제 개인용으로 사용중입니다.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
