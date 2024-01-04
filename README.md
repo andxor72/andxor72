@@ -3,7 +3,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandxor72)](https://hits.seeyoufarm.com) 
 	
   </div>
-안녕하세요 최재현입니다. Hardware 엔지니어이고 여러 예제 개인용으로 사용중입니다.
+안녕하세요 최재현입니다. Hardware 엔지니어입니다. 개인용으로 사용중입니다.
 
 
 - 🔭 I’m currently working on ...
